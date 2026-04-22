@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+dist/
+build/
+.env
+.venv/
+venv/
+ENV/
+
+# Gradio
+gradio_cached_theme/
+.gradio/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Dados sensíveis (manter .gitignore!)
+.env
+*.key
+*.csv  # Se dados forem sensíveis
+data/*.csv  # Manter no .gitignore se necessário baixar dados reais
+
+# Testes
+pytest_cache/
+.coverage
+htmlcov/
+
+# Logs
+*.log

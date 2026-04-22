@@ -1,0 +1,27 @@
+# /// script
+# requires-python = ">=3.11"
+# dependencies = [
+#     "gradio>=5.0.0",
+#     "httpx>=0.27.0",
+#     "pandas>=2.0.0",
+#     "python-dotenv>=1.0.0",
+#     "requests>=2.31.0",
+# ]
+# ///
+
+[project]
+name = "periodicos-mcp"
+version = "0.1.0"
+description = "Classificador de Periódicos em Administração (CAPES, SJR, ABDC, SPELL)"
+requires-python = ">=3.11"
+dependencies = [
+    "gradio>=5.0.0",
+    "httpx>=0.27.0",
+    "pandas>=2.0.0",
+    "python-dotenv>=1.0.0",
+    "requests>=2.31.0",
+    "mcp>=1.0.0",
+]
+
+[project.scripts]
+periodicos-mcp = "server:main"
