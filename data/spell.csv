@@ -1,7 +1,31 @@
-issn,name,country,citations
-1415-6555,Revista de Administração Pública,Brazil,150
-0034-7612,Public Administration Review,USA,4500
-0001-646,Academy of Management Review,USA,12000
-1415-6555,Revista de Administração Contemporânea,Brazil,85
-1984-7060,Revista de Ciências da Administração,Brazil,320
-1807-7690,RAC - Revista de Administração Contemporânea,Brazil,250
+issn,name,area,pais,citations
+0001-4273,Academy of Management Journal,Gestao,USA,5359
+0363-7425,Academy of Management Review,Gestao,USA,7510
+0001-8392,Administrative Science Quarterly,Administracao Geral,USA,7547
+0143-2095,Strategic Management Journal,Gestao,USA,6785
+0025-1909,Management Science,Gestao,USA,7218
+1047-7039,Organization Science,Administracao Geral,USA,8689
+0022-2429,Journal of Marketing,Administracao Geral,USA,1507
+0093-5301,Journal of Consumer Research,Administracao Geral,USA,10265
+0033-3352,Public Administration Review,Administracao Publica,USA,8081
+1069-0387,Journal of Public Administration Research and Theory,Administracao Publica,USA,7198
+1415-6555,Revista de Administracao Publica,Administracao Publica,Brasil,5538
+1415-6563,Revista de Administracao Contemporanea,Administracao Geral,Brasil,4418
+0034-7612,Revista de Administracao de Empresas,Administracao Geral,Brasil,504
+2236-5710,RAUSP - Revista de Administracao da USP,Administracao Geral,Brasil,446
+1808-1320,Cadernos EBA.F,Administracao Geral,Brasil,221
+1982-7733,Revista de Ciencias da Administracao,Administracao Geral,Brasil,314
+1807-7690,RAC - Revista de Administracao Contemporanea,Administracao Geral,Brasil,200
+1806-4892,Revista Brasileira de Gestao de Negocios,Gestao,Brasil,90
+1678-0817,Revista Eletronica de Ciencia Administrativa,Administracao Geral,Brasil,246
+1415-982,Caderno de Administracao,Administracao Geral,Brasil,350
+1678-6971,Revista de Administracao Mackenzie,Administracao Geral,Brasil,219
+2236-2886,Revista de Gestao e Secretariado,Gestao,Brasil,422
+2178-0080,Revista de Administracao em Dialogo,Administracao Geral,Brasil,515
+2316-2252,Revista Cientifica de Administracao,Administracao Geral,Brasil,96
+1980-766X,Revista Brasileira de Risco e Seguros,Administracao Geral,Brasil,502
+2764-1333,Revista de Administracao Publica Federal,Administracao Publica,Brasil,490
+2179-0973,Revista de Politicas Publicas,Administracao Publica,Brasil,375
+2764-2607,Governanca e Gestao Publica,Administracao Publica,Brasil,305
+0034-7612,Revista do Servico Publico,Administracao Publica,Brasil,504
+2763-9304,Revista de Administracao Municipal,Administracao Geral,Brasil,213

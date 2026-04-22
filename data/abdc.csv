@@ -1,7 +1,31 @@
-issn,name,category,rank
-1415-6555,Revista de Administracao Publica,Public Administration,A
-0034-7612,Public Administration Review,Public Administration,A*
-0001-646,Academy of Management Review,Management,A*
-1415-6555,Revista de Administracao Contemporanea,Business General,A
-1984-7060,Revista de Ciencias da Administracao,Business General,B
-1807-7690,RAC - Revista de Administracao Contemporanea,Business General,A
+journal_title,issn,quality,category_name
+Academy of Management Journal,0001-4273,A*,Business and International Management
+Academy of Management Review,0363-7425,A*,Business and International Management
+Administrative Science Quarterly,0001-8392,A*,Business and International Management
+Strategic Management Journal,0143-2095,A*,Business and International Management
+Management Science,0025-1909,A*,Business and International Management
+Organization Science,1047-7039,A*,Business and International Management
+Journal of Marketing,0022-2429,A*,Business and International Management
+Journal of Consumer Research,0093-5301,A*,Business and International Management
+Public Administration Review,0033-3352,A*,Business and International Management
+Journal of Public Administration Research and Theory,1069-0387,A*,Business and International Management
+Revista de Administracao Publica,1415-6555,A1,Business and International Management
+Revista de Administracao Contemporanea,1415-6563,A1,Business and International Management
+Revista de Administracao de Empresas,0034-7612,A,Business and International Management
+RAUSP - Revista de Administracao da USP,2236-5710,A,Business and International Management
+Cadernos EBA.F,1808-1320,A,Business and International Management
+Revista de Ciencias da Administracao,1982-7733,A,Business and International Management
+RAC - Revista de Administracao Contemporanea,1807-7690,A,Business and International Management
+Revista Brasileira de Gestao de Negocios,1806-4892,A,Business and International Management
+Revista Eletronica de Ciencia Administrativa,1678-0817,B,Business and International Management
+Caderno de Administracao,1415-982,B,Business and International Management
+Revista de Administracao Mackenzie,1678-6971,B,Business and International Management
+Revista de Gestao e Secretariado,2236-2886,C,Business and International Management
+Revista de Administracao em Dialogo,2178-0080,C,Business and International Management
+Revista Cientifica de Administracao,2316-2252,B,Business and International Management
+Revista Brasileira de Risco e Seguros,1980-766X,C,Business and International Management
+Revista de Administracao Publica Federal,2764-1333,B,Business and International Management
+Revista de Politicas Publicas,2179-0973,B,Business and International Management
+Governanca e Gestao Publica,2764-2607,C,Business and International Management
+Revista do Servico Publico,0034-7612,B,Business and International Management
+Revista de Administracao Municipal,2763-9304,C,Business and International Management

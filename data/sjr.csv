@@ -1,11 +1,31 @@
-issn,name,field,sjr_score,quartile
-1415-6555,Revista de Administracao Publica,Business and International Management,1.2,Q2
-0034-7612,Public Administration Review,Public Administration,2.8,Q1
-0001-646,Academy of Management Review,Management,12.5,Q1
-1415-6555,Revista de Administracao Contemporanea,Business General,1.8,Q2
-0102-9252,Cadernos EBA.F,Business and International Management,0.3,Q3
-1984-7060,Revista de Ciencias da Administracao,Business General,0.9,Q2
-1678-0817,Revista Eletronica de Ciencia Administrativa,Business General,0.4,Q3
-1415-982,Caderno de Administracao,Business General,0.5,Q3
-2178-9935,Revista Brasileira de Gestao de Negocios,Business General,1.0,Q2
-1807-7690,RAC - Revista de Administracao Contemporanea,Business General,1.5,Q2
+issn,journal,field,sjr_score,quartile
+0001-4273,Academy of Management Journal,"Business, Management and Accounting",12.0,Q1
+0363-7425,Academy of Management Review,"Business, Management and Accounting",8.0,Q1
+0001-8392,Administrative Science Quarterly,"Business, Management and Accounting",10.0,Q1
+0143-2095,Strategic Management Journal,"Business, Management and Accounting",8.0,Q1
+0025-1909,Management Science,"Business, Management and Accounting",11.0,Q1
+1047-7039,Organization Science,"Business, Management and Accounting",12.0,Q1
+0022-2429,Journal of Marketing,"Business, Management and Accounting",10.0,Q1
+0093-5301,Journal of Consumer Research,"Business, Management and Accounting",8.0,Q1
+0033-3352,Public Administration Review,"Business, Management and Accounting",9.0,Q1
+1069-0387,Journal of Public Administration Research and Theory,"Business, Management and Accounting",11.0,Q1
+1415-6555,Revista de Administracao Publica,"Business, Management and Accounting",11.0,Q1
+1415-6563,Revista de Administracao Contemporanea,"Business, Management and Accounting",11.0,Q1
+0034-7612,Revista de Administracao de Empresas,"Business, Management and Accounting",6.0,Q2
+2236-5710,RAUSP - Revista de Administracao da USP,"Business, Management and Accounting",4.0,Q2
+1808-1320,Cadernos EBA.F,"Business, Management and Accounting",7.0,Q2
+1982-7733,Revista de Ciencias da Administracao,"Business, Management and Accounting",4.0,Q2
+1807-7690,RAC - Revista de Administracao Contemporanea,"Business, Management and Accounting",6.0,Q2
+1806-4892,Revista Brasileira de Gestao de Negocios,"Business, Management and Accounting",4.0,Q2
+1678-0817,Revista Eletronica de Ciencia Administrativa,"Business, Management and Accounting",1.0,Q2
+1415-982,Caderno de Administracao,"Business, Management and Accounting",1.0,Q2
+1678-6971,Revista de Administracao Mackenzie,"Business, Management and Accounting",2.0,Q2
+2236-2886,Revista de Gestao e Secretariado,"Business, Management and Accounting",2.0,Q3
+2178-0080,Revista de Administracao em Dialogo,"Business, Management and Accounting",2.0,Q3
+2316-2252,Revista Cientifica de Administracao,"Business, Management and Accounting",2.0,Q2
+1980-766X,Revista Brasileira de Risco e Seguros,"Business, Management and Accounting",2.0,Q3
+2764-1333,Revista de Administracao Publica Federal,"Business, Management and Accounting",2.0,Q2
+2179-0973,Revista de Politicas Publicas,"Business, Management and Accounting",3.0,Q2
+2764-2607,Governanca e Gestao Publica,"Business, Management and Accounting",3.0,Q3
+0034-7612,Revista do Servico Publico,"Business, Management and Accounting",1.0,Q2
+2763-9304,Revista de Administracao Municipal,"Business, Management and Accounting",3.0,Q3
